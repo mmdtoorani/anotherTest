@@ -13,7 +13,7 @@ you can clone it and check
 ![after_deselectall](https://user-images.githubusercontent.com/84853720/132851147-30f5f3a7-58ae-42e6-82e6-2e967457e20b.png)
 
 # submit:
-if you write your name and submit, pay attention to changing welcome navbar
+Write your name and submit and pay attention to changing welcome navbar
 ![submit](https://user-images.githubusercontent.com/84853720/132853086-84dbc363-797c-4cca-9149-03f3e47eb7ae.png)
 
 # reset:
