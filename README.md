@@ -1,5 +1,5 @@
 
-# Stop wasting time!!!
+# it was a good practice for me!
 This example is very useful practice for javascript beginners<br>
 you can clone it and check
 
